@@ -1,9 +1,9 @@
 class AudioJournalCli < Formula
   desc "CLI tool for recording audio journal entries with location data"
   homepage "https://github.com/shyamalschandra/Audio-Journal-I"
-  version "1.0.2"
-  url "https://github.com/shyamalschandra/audio-journal-releases/releases/download/v1.0.2/audio-journal-cli"
-  sha256 "2ac482c13f2ac0bfb0571aa6caf7aeb6b63bc0c62ba536bb4740fb8785b55721"
+  version "1.1.0"
+  url "https://github.com/shyamalschandra/audio-journal-releases/releases/download/v1.1.0/audio-journal-cli"
+  sha256 "8aa6e8789e0db9f79df53e1536669ac1a96ea008ded560af0901b0ee303412a4"
   # Copyright (C) 2025, Shyamal Suhana Chandra - All rights reserved
 
   depends_on :macos
