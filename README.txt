@@ -58,9 +58,9 @@ audio-journal-cli delete <entry-id> --force
 
 This tap is automatically updated when new releases are published to the `audio-journal-releases` repository.
 
-## 📄 License
+## 📄 Copyright
 
-MIT License - see the main repository for details.
+Copyright (C) 2025, Shyamal Suhana Chandra - All rights reserved.
 
 ## 🔗 Links
 
